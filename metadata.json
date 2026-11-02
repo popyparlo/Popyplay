@@ -1,0 +1,6 @@
+{
+  "name": "PixelPlayer",
+  "description": "A Material You local music player built for Android 10+ with wavy scrubber, synced lyrics, and individual file playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
